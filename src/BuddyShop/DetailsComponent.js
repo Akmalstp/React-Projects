@@ -6,7 +6,7 @@ const DetailsComponent = () =>{
     
         return(
             <div>
-                <h2>Product Details</h2>
+                <h2>Full Product Details</h2>
                 <dl>
                     <dt>Id</dt>
                     <dd>{id}</dd>
